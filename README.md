@@ -22,7 +22,7 @@ O objetivo é criar uma solução prática para **gerenciar um Petshop de pequen
 - Cadastro de **clientes** e **pets**  
 - Controle de **serviços** (banho, tosa, consultas, vacinas etc.)  
 - Registro de **atendimentos** e **agendamentos**  
-- Relatórios de **movimentação e faturamento**  
+
 - Interface simples e funcional desenvolvida diretamente no Access  
 
 ---
